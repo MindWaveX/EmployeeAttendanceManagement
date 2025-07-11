@@ -1,5 +1,9 @@
 # HR Attendance Dashboard
 
+## 🌐 Live Demo
+
+[http://mindwavex.com/demos/EmployeeAttendanceManagement](http://mindwavex.com/demos/EmployeeAttendanceManagement)
+
 A modern, responsive HR Attendance Dashboard built with React, TypeScript, and Tailwind CSS. This is a demo application with hardcoded data showcasing employee attendance tracking, timesheet management, and reporting features.
 
 ## 🚀 Features
